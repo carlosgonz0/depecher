@@ -852,11 +852,11 @@
     </message>
     <message>
         <source>Bio</source>
-        <translation>Cambiando la biografía</translation>
+        <translation>Biografía</translation>
     </message>
     <message>
         <source>Change Bio</source>
-        <translation>Biografía</translation>
+        <translation>Cambiar biografía</translation>
     </message>
 </context>
 <context>
