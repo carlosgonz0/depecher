@@ -937,7 +937,7 @@
     </message>
     <message>
         <source>%1 animations</source>
-        <translation>1% animaciones</translation>
+        <translation>%1 animaciones</translation>
     </message>
 </context>
 <context>
