@@ -125,7 +125,7 @@
     <name>AnimationView</name>
     <message>
         <source>Animations</source>
-        <translation>Animacines</translation>
+        <translation>Animaciones</translation>
     </message>
 </context>
 <context>
